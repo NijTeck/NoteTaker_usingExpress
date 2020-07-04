@@ -17,3 +17,6 @@ I have source outside resource to help me work on this, and it's promissing so f
 
 ## Github username: NijTeck
 
+## deployed Links
+
+https://opentechschool.github.io/social-coding/extras/heroku.html
